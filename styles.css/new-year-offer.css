@@ -1,0 +1,36 @@
+.merriweather-normal {
+  font-family: "Merriweather", serif;
+  font-optical-sizing: auto;
+  font-weight: normal;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+    
+}
+.header-bg{
+    background-image: url(../images/Banner\ Image.png) ;
+    align-items: center;
+    width: 1320px;
+    height: 600px;
+    margin:50px auto;
+}
+
+.center{
+    background-image: linear-gradient(to bottom, rgba(7, 2, 17, 1), rgba(7, 2, 17, 0));
+    text-align: center;
+    color: white;
+    border-radius: 16px;
+    
+}
+p{
+    font-size: 32px;
+    font-weight: normal;
+    padding-top: 117px;
+}
+h1{
+    font-size: 72px;
+    width: 632px;
+    line-height: 95px;
+    padding-left: 344px;
+    font-weight: bolder;
+}
